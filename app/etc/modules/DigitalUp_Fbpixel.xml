@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <DigitalUp_Fbpixel>
+            <active>true</active>
+            <codePool>local</codePool>
+        </DigitalUp_Fbpixel>
+    </modules>
+</config>
